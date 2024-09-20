@@ -25,3 +25,6 @@ https://www.freedium.cfd/https://medium.com/codex/data-governance-in-the-age-of-
 
 Article 8:\
 https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2
+
+Article 9:\
+https://blog.cambridgesemantics.com/knowledge-graphs-a-love-affair
