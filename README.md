@@ -11,5 +11,8 @@ Article 3:\
 https://ai.gopubby.com/how-to-improve-rag-with-query-transformation-be65c45a9f58 \
 [Uploading full_article3.html…]()
 
+Article 4:\
+https://www.forbes.com/sites/cognitiveworld/2019/03/24/taxonomies-vs-ontologies/
+
 
 
