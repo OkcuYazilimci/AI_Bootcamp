@@ -17,7 +17,7 @@ https://www.forbes.com/sites/cognitiveworld/2019/03/24/taxonomies-vs-ontologies/
 Article 5:\
 https://www.freedium.cfd/https://medium.com/@vipra_singh/llm-architectures-explained-nlp-fundamentals-part-1-de5bf75e553a
 
-Article 6:\
+Article 6:\\
 https://www.dataversity.net/knowledge-graphs-101-the-story-and-benefits-behind-the-hype/
 
 Article 7:\
