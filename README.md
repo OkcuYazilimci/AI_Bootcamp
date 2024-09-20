@@ -19,3 +19,7 @@ https://www.freedium.cfd/https://medium.com/@vipra_singh/llm-architectures-expla
 
 Article 6:\
 https://www.dataversity.net/knowledge-graphs-101-the-story-and-benefits-behind-the-hype/
+
+Article 7:\
+https://www.freedium.cfd/https://medium.com/codex/data-governance-in-the-age-of-generative-ai-leveraging-knowledge-graph-rag-for-advanced-reasoning-88363646ab1c
+
