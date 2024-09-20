@@ -23,3 +23,5 @@ https://www.dataversity.net/knowledge-graphs-101-the-story-and-benefits-behind-t
 Article 7:\
 https://www.freedium.cfd/https://medium.com/codex/data-governance-in-the-age-of-generative-ai-leveraging-knowledge-graph-rag-for-advanced-reasoning-88363646ab1c
 
+Article 8:\
+https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2
