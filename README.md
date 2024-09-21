@@ -38,6 +38,15 @@ https://cambridgesemantics.com/blog/semantic-university/learn-sparql/
 **Article 12:\
 https://cambridgesemantics.com/blog/semantic-university/learn-rdf/
 
+**Article 13:\
+https://cambridgesemantics.com/blog/semantic-university/learn-owl-rdfs/
+
+**Article 14:\
+
+
+**Article 15:\
+
+
 
 MCKINSEY FORWARD PROGRAM 
 Article1: \
