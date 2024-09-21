@@ -35,6 +35,9 @@ https://cambridgesemantics.com/blog/semantic-university/semantic-web-design-patt
 **Article 11:\
 https://cambridgesemantics.com/blog/semantic-university/learn-sparql/
 
+**Article 12:\
+https://cambridgesemantics.com/blog/semantic-university/learn-rdf/
+
 
 MCKINSEY FORWARD PROGRAM 
 Article1: \
