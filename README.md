@@ -42,6 +42,7 @@ https://cambridgesemantics.com/blog/semantic-university/learn-rdf/
 https://cambridgesemantics.com/blog/semantic-university/learn-owl-rdfs/
 
 **Article 14:\
+https://cambridgesemantics.com/blog/semantic-university/intro-semantic-web/intro-linked-data/
 
 
 **Article 15:\
