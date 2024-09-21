@@ -32,6 +32,10 @@ https://blog.cambridgesemantics.com/knowledge-graphs-a-love-affair
 **Article 10:\
 https://cambridgesemantics.com/blog/semantic-university/semantic-web-design-patters/
 
+**Article 11:\
+https://cambridgesemantics.com/blog/semantic-university/learn-sparql/
+
+
 MCKINSEY FORWARD PROGRAM 
 Article1: \
 https://www.mckinsey.com/~/media/mckinsey/email/genz/2023/04/2023-04-11b.html?cid=other-eml-mtg-mip-mck&hlkid=cd5a0ed34f33468189e7d1871dc5c64d&hctky=14603965&hdpid=b7436b75-b4e8-4ea5-8cbf-71ea11c33311
