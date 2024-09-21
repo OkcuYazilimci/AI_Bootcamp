@@ -33,3 +33,5 @@ MCKINSEY FORWARD PROGRAM
 Article1: \
 https://www.mckinsey.com/~/media/mckinsey/email/genz/2023/04/2023-04-11b.html?cid=other-eml-mtg-mip-mck&hlkid=cd5a0ed34f33468189e7d1871dc5c64d&hctky=14603965&hdpid=b7436b75-b4e8-4ea5-8cbf-71ea11c33311
 
+Article2: \
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year
